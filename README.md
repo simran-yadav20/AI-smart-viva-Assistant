@@ -23,11 +23,5 @@ An AI-powered viva assistant designed to simulate interview scenarios by generat
 4. System evaluates response
 5. Feedback is provided
 
-## 📸 Project Preview
-(Add screenshot here if available)
-
-## 🌐 Portfolio Link
-https://yourusername.github.io/simran-portfolio
-
 ## 📌 Status
 Completed / Improving
