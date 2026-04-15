@@ -1,0 +1,12 @@
+numpy
+pandas
+opencv-python
+mediapipe
+torch
+transformers
+whisper
+sounddevice
+pyttsx3
+fastapi
+uvicorn
+streamlit
