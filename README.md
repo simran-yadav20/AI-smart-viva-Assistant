@@ -23,5 +23,12 @@ An AI-powered viva assistant designed to simulate interview scenarios by generat
 4. System evaluates response
 5. Feedback is provided
 
+## 📸 Demo
+
+![AI Smart Viva Assistant](screenshots/screenshot1.jpeg)
+![AI Smart Viva Assistant](screenshots/screenshot2.jpeg)
+![AI Smart Viva Assistant](screenshots/screenshot3.jpeg)
+![AI Smart Viva Assistant](screenshots/screenshot4.jpeg)
+![AI Smart Viva Assistant](screenshots/screenshot5.jpeg)
 ## 📌 Status
 Completed / Improving
